@@ -1,0 +1,18 @@
+.bg{
+    width: 1100px;
+    height: 1430px;
+    border-radius: 36px;
+    background: #e0e0e0;
+    box-shadow:  50px 50px 91px #606060,
+                -50px -50px 91px #ffffff;
+}
+
+.lan{
+    width: 240px;
+    height: 1430px;
+    border-radius: 36px;
+    background: #e0e0e0;
+    box-shadow:  50px 50px 91px #606060,
+                -50px -50px 91px #ffffff;
+    margin: -1430px 1170px;
+}
